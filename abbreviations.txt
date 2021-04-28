@@ -2,7 +2,7 @@ _abbr_exc = [
     {ORTH: "BDU", NORM: "Bakı Dövlət Üniversiteti"},
     {ORTH: "MRT", NORM: "Maqnit Rezonans Tomoqrafiya"},
     {ORTH: "BFB", NORM: "Bakı Fond Birjası"},
-    {ORTH: "BDU", NORM: "Bakı Dövlət Üniversiteti"},
+    {ORTH: "AMB", NORM: "Azərbaycan Mərkəzi Bankı"},
     {ORTH: "BDU", NORM: "Bakı Dövlət Üniversiteti"},
     {ORTH: "BDU", NORM: "Bakı Dövlət Üniversiteti"},
     {ORTH: "BDU", NORM: "Bakı Dövlət Üniversiteti"},
