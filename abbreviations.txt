@@ -14,9 +14,9 @@ _abbr_exc = [
     {ORTH: "İTS", NORM: "İcbari Tibbi Sığorta"},
     {ORTH: "MSK", NORM: "Mərkəzi Seçki Komissiyası"},
     {ORTH: "MDM", NORM: "Milli Depozit Mərkəzi"},
+    {ORTH: "DTX", NORM: "Dövlət Təhlükəsizliyi Xidməti"},
+    {ORTH: "AAYDA", NORM: "Azərbaycan Avtomobil Yolları Dövlət Agentliyi"},
     
-    {ORTH: "BDU", NORM: "Bakı Dövlət Üniversiteti"},
-    {ORTH: "BDU", NORM: "Bakı Dövlət Üniversiteti"},
     {ORTH: "BDU", NORM: "Bakı Dövlət Üniversiteti"},
     {ORTH: "BDU", NORM: "Bakı Dövlət Üniversiteti"},
     {ORTH: "BDU", NORM: "Bakı Dövlət Üniversiteti"},
